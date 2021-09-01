@@ -22,7 +22,6 @@ _It’s up to you to turn this house into your character’s dream home, and wor
 | Roll  | Type of Damage | Damage Amount (Nega-Victory Points) | 
 | ----  | -------------- | ------------------------------------|
 | 2     | Foundation     | -10 VP                              |
-|-------|----------------|-------------------------------------|
 <!-- TODO: finish table -->
 
 

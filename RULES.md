@@ -5,7 +5,7 @@ _It’s up to you to turn this house into your character’s dream home, and wor
 
 ## Game Objective
 
-“Best” home or block according to your character i.e. get the most victory points by the end of the game. Game ends when (everyone or first person) has fixed everything broken about their house.
+“Worst” home or block according to your character i.e. get the most victory points by the end of the game. Game ends when (everyone or first person) has fixed everything broken about their house.
 
 # SETUP:
 
